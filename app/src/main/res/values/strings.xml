@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Beard Shop Cart List</string>
+
+    <string name="item_1">Original Oil 0.5 oz</string>
+    <string name="item_2">Cream 2 oz</string>
+    <string name="item_3">Beard Spray 1 oz</string>
+    <string name="item_4">Beard Brush</string>
+    <string name="cancel">Cancel</string>
+    <string name="payment">PAYMENT</string>
+    <string name="shipping_title">Shipping Costs:</string>
+    <string name="total_title">Total Price:</string>
+    <string name="currency">$</string>
+    <string name="product_id">PRODUCT ID:</string>
+    <string name="cart_list">CART LIST</string>
+</resources>
